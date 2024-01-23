@@ -9,6 +9,5 @@
 - ⚡ Fun fact: Kiwi made!
 -->
 - 🔭 I’m currently working on projects the **TypeScript** and **Next.js**
-- 🌱 I’m currently learning **Next Server Actions**, **SWR / Caching** and refining my TypeScript Generics knowledge. 
-- 💬 Ask me about ...
-- ⚡ Fun fact: Kiwi made!
+- 🌱 I’m currently learning **Next Server Actions**, **SWR / Caching** and refining my TypeScript Generics knowledge
+- ⚡ Fun fact: Kiwi made, living in Birmingham, UK
