@@ -8,6 +8,6 @@
 - 💬 Ask me about ... React
 - ⚡ Fun fact: Kiwi made!
 -->
-- 🔭 I’m currently working on projects the **TypeScript** and **Next.js**
-- 🌱 I’m currently learning new React hooks including **useOptimistic**, plus **Next.js Revalidation / Caching** while refining my TypeScript knowledge
+- 🔭 I’m currently working on projects using **TypeScript** and **Next.js**
+- 🌱 I’m currently deepening my knowledge of **GraphQL** while discovering the latest React hooks such as **useOptimistic**
 - ⚡ Fun fact: Kiwi made, living in Birmingham, UK
