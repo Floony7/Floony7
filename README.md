@@ -9,5 +9,5 @@
 - ⚡ Fun fact: Kiwi made!
 -->
 - 🔭 I’m currently working on projects using **TypeScript** and **Next.js**
-- 🌱 I’m currently deepening my knowledge of **GraphQL** while discovering the latest React hooks such as **useOptimistic**
+- 🌱 I’m also deepening my knowledge of **GraphQL** while discovering the latest React hooks such as **useOptimistic**
 - ⚡ Fun fact: Kiwi made, living in Birmingham, UK
