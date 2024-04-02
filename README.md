@@ -8,6 +8,7 @@
 - 💬 Ask me about ... React
 - ⚡ Fun fact: Kiwi made!
 -->
+- :muscle: Favourite Tech: Next.js, React, TypeScript and Tailwind CSS
 - 🔭 I’m currently working on projects using **TypeScript** and **Next.js**
 - 🌱 I’m also deepening my knowledge of **GraphQL** while discovering the latest React hooks such as **useOptimistic**
 - ⚡ Fun fact: Kiwi made, living in Birmingham, UK
