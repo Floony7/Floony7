@@ -9,6 +9,6 @@
 - ⚡ Fun fact: Kiwi made!
 -->
 - :muscle: Favourite Tech: **Next.js**, **React**, **TypeScript**, **Styled Components** and **RxJS**
-- 🔭 Personal **Next.js** projects I'm working on: Trello clone; Real Estate website.
-- 🌱 I’m also deepening my knowledge of **software design patterns**.
+- 🔭 I’m currently working on headless ecommerce projects with **TypeScript** and **Next.js**
+- 🌱 I’m deepening my knowledge of **software design patterns** and learning about Shopify.
 - ⚡ Fun fact: Kiwi made, living in Birmingham, UK
