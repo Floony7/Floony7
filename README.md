@@ -10,5 +10,5 @@
 -->
 - :muscle: Favourite Tech: **Next.js**, **React**, **TypeScript**, **Styled Components** and **RxJS**
 - 🔭 I’m currently working on headless ecommerce projects with **TypeScript** and **Next.js**
-- 🌱 I’m deepening my knowledge of **software design patterns** and learning about Shopify.
+- 🌱 I’m deepening my knowledge of **Node.js**, **Nest.js**, **software design patterns**.
 - ⚡ Fun fact: Kiwi made, living in Birmingham, UK
