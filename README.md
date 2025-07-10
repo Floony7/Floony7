@@ -8,7 +8,7 @@
 - 💬 Ask me about ... React
 - ⚡ Fun fact: Kiwi made!
 -->
-- :muscle: Favourite Tech: **Next.js**, **React**, **TypeScript**, **Styled Components** and **RxJS**
+- :muscle: Favourite Tech: **Next.js**, **React**, **TypeScript**, **Nest.js** and **RxJS**
 - 🔭 I’m currently working on headless ecommerce projects with **TypeScript** and **Next.js**
 - 🌱 I’m deepening my knowledge of **Node.js**, **Nest.js**, **software design patterns**.
 - ⚡ Fun fact: Kiwi made, living in Birmingham, UK
